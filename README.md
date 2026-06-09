@@ -1,16 +1,39 @@
-## Hi there 👋
+ Hi, I'm Dinesh Kumar 👋
+Aspiring Cloud & DevOps Engineer
+I am a B.Tech (ECE) student passionate about Cloud Computing and DevOps technologies.
 
-<!--
-**dinesh9441/dinesh9441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+ * AWS
+ * Linux
+ * Git & GitHub
+ * Docker
+ * Terraform
+ * Ansible
+ * Kubernetes (Beginner)
+ * Python (Fundamentals)
 
-Here are some ideas to get you started:
+AWS Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* EC2
+* IAM
+* S3
+* EBS
+* Load Balancer
+* Auto Scaling
+* AWS Backup
+* Lambda
+* Systems Manager (SSM)
+* CloudTrail
+* CloudFormation
+
+Projects
+
+* AWS EC2 Auto Scaling & Load Balancing
+* AWS Systems Manager Patch Management
+* AWS Lambda Backup Automation
+* Ansible Configuration Management
+
+### Contact
+
+Email: [dineshkumarsikhakolli@gmail.com](mailto:dineshkumarsikhakolli@gmail.com)
+LinkedIn: www.linkedin.com/in/dinesh-kumar-sikhakolli-983005379
