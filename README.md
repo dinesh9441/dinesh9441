@@ -9,8 +9,8 @@ Skills
  * Docker
  * Terraform
  * Ansible
- * Kubernetes (Beginner)
- * Python (Fundamentals)
+ * Kubernetes 
+ * Python 
 
 AWS Services
 
